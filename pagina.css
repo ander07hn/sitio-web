@@ -1,0 +1,91 @@
+background: #E0EAFC;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #CFDEF3, #E0EAFC);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #CFDEF3, #E0EAFC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+
+
+card{
+margin: 5px;
+    padding: 5px;
+}
+BtnDocente{
+    margin: 10px;
+}
+
+amigos{
+    margin-top: 10px;
+}
+
+
+
+
+.redes3 {
+  font-family: Arial;
+  background: #373b44; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #4286f4,
+    #373b44
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #4286f4,
+    #373b44
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: white;
+}
+
+
+.redessoci {
+  width: 29%;
+  margin-top: -65px;
+}
+
+
+.copy {
+  width: 27%;
+  font-family:Arial;
+  color: white;
+}
+
+.face1 {
+  width: 46px;
+    margin: 3px;
+}
+
+.face1:hover {
+  filter: drop-shadow(0px 10px 10px black);
+  transform: translateY(-1%);
+}
+
+.face {
+  width: 50px;
+    margin: 1px;
+}
+
+.face:hover {
+  filter: drop-shadow(8px 10px 10px black);
+  transform: translateY(-1%);
+}
+
+            .card{
+    margin: 10px;
+    padding-top: 5px;
+}
+
+
+.card:hover{
+    box-shadow: 0 0 20px rgba(0,0,.1);
+    transition: 1s;
+    transform: translateY(-4%);
+}                    
+
+.carousel{
+    width: 1400px
+    
+    
+    
+} 
+
